@@ -1,4 +1,4 @@
-SHIP-8
+CHIP-8
 ======
 
-small SHIP-8 emulator
+small CHIP-8 emulator
